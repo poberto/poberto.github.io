@@ -1,2 +1,3 @@
 # poberto.github.io
-My personal website
+
+Redirects to [peterobertola.com](https://peterobertola.com).
